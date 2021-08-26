@@ -7,19 +7,16 @@ https://www.apachefriends.org/xampp-files/7.3.29/xampp-linux-x64-7.3.29-2-instal
 // first if you disable password any time
 
 sudo visudo
-
 	%admin	ALL=(ALL) NOPASSWD:ALL
 	%sudo	ALL=(ALL) NOPASSWD:ALL
 	
 
 //install xampp ubuntu
-
 	cd /home/youru-sername/Downloads
 	sudo chmod 755 xampp-linux-installer.run
 	sudo ./xampp-linux-installer.run
 
 //create icon desktop
-
 	[Desktop Entry]
 	Encoding=UTF-8
 	Name=XAMPP Control Panel
@@ -31,6 +28,6 @@ sudo visudo
 	Terminal=false
 
 //uninstall your current xampp 
-sudo -i
-cd /opt/lampp
-sudo ./uninstall
+	sudo -i
+	cd /opt/lampp
+	sudo ./uninstall
