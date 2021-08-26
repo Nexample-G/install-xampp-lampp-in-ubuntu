@@ -11,12 +11,16 @@ sudo visudo
 	%sudo	ALL=(ALL) NOPASSWD:ALL
 	
 
+
 //install xampp ubuntu
+
 	cd /home/youru-sername/Downloads
 	sudo chmod 755 xampp-linux-installer.run
 	sudo ./xampp-linux-installer.run
 
+
 //create icon desktop
+
 	[Desktop Entry]
 	Encoding=UTF-8
 	Name=XAMPP Control Panel
@@ -27,7 +31,9 @@ sudo visudo
 	Type=Application
 	Terminal=false
 
+
 //uninstall your current xampp 
+
 	sudo -i
 	cd /opt/lampp
 	sudo ./uninstall
