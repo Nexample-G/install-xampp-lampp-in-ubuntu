@@ -8,6 +8,7 @@ https://www.apachefriends.org/download.html
 // first if you disable password any time
 
 sudo visudo
+
 	%admin	ALL=(ALL) NOPASSWD:ALL
 	%sudo	ALL=(ALL) NOPASSWD:ALL
 	
@@ -15,7 +16,7 @@ sudo visudo
 
 //install xampp ubuntu
 
-	cd /home/youru-sername/Downloads
+	cd /home/your-username/Downloads
 	sudo chmod 755 xampp-linux-installer.run
 	sudo ./xampp-linux-installer.run
 
