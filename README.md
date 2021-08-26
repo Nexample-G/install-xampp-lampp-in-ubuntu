@@ -1,8 +1,7 @@
 # install xampp lampp in ubuntu
 
 //Use This Link For Download xampp ubuntu
-
-	https://www.apachefriends.org/download.html
+https://www.apachefriends.org/download.html
 
 
 // first if you disable password any time
