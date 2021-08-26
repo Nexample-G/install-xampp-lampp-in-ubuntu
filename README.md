@@ -9,7 +9,6 @@ https://www.apachefriends.org/xampp-files/7.3.29/xampp-linux-x64-7.3.29-2-instal
 sudo visudo
 
 	%admin	ALL=(ALL) NOPASSWD:ALL
-	
 	%sudo	ALL=(ALL) NOPASSWD:ALL
 	
 
