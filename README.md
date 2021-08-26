@@ -5,9 +5,13 @@
 https://www.apachefriends.org/xampp-files/7.3.29/xampp-linux-x64-7.3.29-2-installer.run
 
 // first if you disable password any time
+
 sudo visudo
+
 	%admin	ALL=(ALL) NOPASSWD:ALL
+	
 	%sudo	ALL=(ALL) NOPASSWD:ALL
+	
 
 //install xampp ubuntu
 cd /home/youru-sername/Downloads
