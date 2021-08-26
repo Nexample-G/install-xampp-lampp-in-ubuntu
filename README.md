@@ -2,7 +2,8 @@
 
 //Use This Link For Download xampp ubuntu
 
-https://www.apachefriends.org/xampp-files/7.3.29/xampp-linux-x64-7.3.29-2-installer.run
+	https://www.apachefriends.org/download.html
+
 
 // first if you disable password any time
 
