@@ -13,6 +13,7 @@ sudo visudo
 	
 
 //install xampp ubuntu
+
 	cd /home/youru-sername/Downloads
 	sudo chmod 755 xampp-linux-installer.run
 	sudo ./xampp-linux-installer.run
